@@ -3,7 +3,7 @@
   "scope": "/",
   "name": "mypwa",
   "display": "standalone",
-  "start_url": "/pwa.io",
+  "start_url": "/",
   "short_name": "starter",
   "theme_color": "#E1477E",
   "description": "This is a mypwa app",
